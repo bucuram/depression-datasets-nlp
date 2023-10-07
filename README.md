@@ -55,7 +55,7 @@ Dataset | Platform | Language | Level | Annotation Procedure | Label | Dataset S
 |[Tabak and Purver (2020)*](https://browse.arxiv.org/pdf/2008.13121.pdf) |Temporal Mental Health Dynamics on Social Media  |Twitter |English, French, German, Italian, Spanish|USER |Self-disclosure |Binary |5K users |API | |
 |[Yazdavar et al. (2020) ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226248) |Twitter |English |USER |Manual annotation |Binary |8.7K users |DUA | |
 |[Wołk et al. (2021)](https://browse.arxiv.org/pdf/2106.10485.pdf) |Facebook, Reddit |Polish |POST |Self-disclosure, clinical interview |Binary |262 users |UNK | |
-|[Haque et al. (2021) ](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_35)|English |POST |Subreddit participation |Depression vs. suicide |1.8K posts |FREE |https://github.com/ayaanzhaque/SDCNL  |
+|[Haque et al. (2021) ](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_35)|Reddit| English |POST |Subreddit participation |Depression vs. suicide |1.8K posts |FREE |https://github.com/ayaanzhaque/SDCNL  |
 |[Chiu et al. (2021)](https://link.springer.com/article/10.1007/s10844-020-00599-5) |Instagram  |English, Chinese |USER |Depression-related keywords |Binary |520 users |UNK | |
 |[Nanomi Arachchige et al. (2021)](https://aclanthology.org/2021.ranlp-srw.20.pdf) |Online forums  |English |POST |Manual annotation |Depression severity  |2.1K posts |UNK | |
 |[Hämäläinen et al. (2021) ](https://aclanthology.org/2021.wnut-1.3.pdf)|Online blogs  |Thai |POST |Manual annotation |Binary |900 posts |FREE |https://zenodo.org/record/4734552 |
