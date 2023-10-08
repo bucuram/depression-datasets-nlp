@@ -1,7 +1,25 @@
-<h1 align="center"><span style="font-weight:normal">Available datasets for depression modeling using data posted on online platforms</h1>
+<h1 align="center"><span style="font-weight:normal">Datasets for depression modeling using data posted on online platforms</h1>
+
+
+The labels for data availability were inspired by the work of [Harrigian et al. (2021)](https://browse.arxiv.org/pdf/2011.05233.pdf), and are explained below: 
+
+- **FREE** - The dataset is publicly available and hosted online for anyone to access.
+
+- **AUTH** - The data can be accessed by contacting the paper's authors.
+
+- **API** - The dataset can be reproduced from the details provided in the article using dedicated APIs for different social media platforms with a reasonable degree of effort.
+
+- **DUA** - The data is available only after a data usage agreement is signed. Sometimes, authorization from an Institutional Review Board (IRB) may be needed.
+
+- **UNK** - The dataset availability is unknown; the authors do not mention if the data is available to the research community.
+
+- **N/AV** - The dataset is no longer available or cannot be shared due to ethical considerations.
+
+For the datasets that are publicly available for download or can be accessed through user agreements, we provide the **links** to the data.
+
 
 Dataset | Platform | Language | Level | Annotation Procedure | Label | Dataset Size | Availability | Link |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | :--- |
 |Multitask [(Benton et al., 2017)](https://aclanthology.org/E17-1015.pdf) |Twitter |English |USER |Self-disclosure |Labels for multiple disorders |9.5K users |UNK | |
 |RSDD [(Yates et al., 2017)](https://arxiv.org/pdf/1709.01848.pdf) |Reddit |English |USER |Self-disclosure |Binary |116K users |DUA |https://georgetown-ir-lab.github.io/emnlp17-depression/ |
 |[Aldarwish and Ahmad (2017)](https://ieeexplore.ieee.org/abstract/document/7940253)   |Twitter, Facebook, LiveJournal|English |POST |Manual annotation |Binary, DSM-IV symptoms |6.7K posts |API | |
@@ -101,6 +119,9 @@ Dataset | Platform | Language | Level | Annotation Procedure | Label | Dataset S
 |[Li et al. (2023)](https://link.springer.com/article/10.1007/s13755-022-00197-5)|Sina Weibo  |Chinese |USER |Self-disclosure, manual annotation |Binary |4.8K users |UNK | |
 |[Guo et al. (2023)](https://ieeexplore.ieee.org/abstract/document/10108970)|Sina Weibo  |Chinese |USER |Manual annotation |Binary |3.1K users |UNK | |
 |[Liu et al. (2023)](https://ojs.aaai.org/index.php/ICWSM/article/view/22169)|Reddit, Twitter |English |USER |Self-disclosure |Binary |205K users, 255 users|UNK | |
+
+For datasets published before 2017, please refer to [https://github.com/kharrigian/mental-health-datasets](https://github.com/kharrigian/mental-health-datasets).
+
 |RESTORE [(Yadav et al., 2023)](https://aclanthology.org/2023.acl-long.495.pdf)|Reddit, Twitter, Pinterest |English |POST |Manual and automatic annotation |PHQ-9 symptoms |9.8K images |AUTH | |
 |[Zogan et al. (2023)](https://ieeexplore.ieee.org/abstract/document/10041797)*|Twitter |English |USER |Self-disclosure |Binary |1.4K users |API | |
 |[Wu et al. (2023)](https://browse.arxiv.org/pdf/2302.12044.pdf)*|Twitter |English |USER |Self-disclosure, manual annotation |Binary |10K users |API | |
