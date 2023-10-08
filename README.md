@@ -66,7 +66,7 @@ Dataset | Platform | Language | Annotation Procedure | Label | Dataset Size | Av
 |[Birnbaum et al. (2020)](https://www.nature.com/articles/s41537-020-00125-0) |Facebook |English |Medical records diagnosis |Binary |223 users |AUTH | |
 |[Mann et al. (2020)](https://ojs.aaai.org/index.php/ICWSM/article/view/7313) |Instagram  |Portuguese |BDI |Binary |221 users |UNK | |
 |[Santos et al. (2020)](https://aclanthology.org/2020.lrec-1.750.pdf)|Twitter |Portuguese |Self-disclosure |Binary |224 users |UNK | |
-|[Alghamdi et al. (2020) ](https://ieeexplore.ieee.org/abstract/document/9040556)|Arabic |Manual annotation |Binary |20K posts |UNK | |
+|[Alghamdi et al. (2020) ](https://ieeexplore.ieee.org/abstract/document/9040556)|Arabic online forum |Arabic |Manual annotation |Binary |20K posts |UNK | |
 |[Li et al. (2020) ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381008/)|Sina Weibo  |Chinese |Self-disclosure |Binary |1.8K users |FREE |https://github.com/omfoggynight/Chinese-Depression-domain-Lexicon |
 |D2S [(Yadav et al., 2020)](https://browse.arxiv.org/pdf/2011.06149.pdf)|Twitter |English |PHQ-9 |PHQ-9 symptoms |12K posts |AUTH | |
 |[Wang et al. (2020)](https://ieeexplore.ieee.org/document/9391501)|Sina Weibo  |Chinese |Depression-related keywords |Binary |32K users |FREE |https://github.com/aidenwang9867/Weibo-User-Depression-Detection-Dataset |
