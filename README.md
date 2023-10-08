@@ -20,20 +20,20 @@ For the datasets that are publicly available for download or can be accessed thr
 
 <img alt="covid-virus" width="20px" src="https://cdn-icons-png.flaticon.com/512/2913/2913584.png" /> Denotes that the dataset contains data collected during the COVID-19 pandemic.
 
-Dataset | Platform | Language | Level | Annotation Procedure | Label | Dataset Size | Availability | Link |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | :--- |
-|Multitask [(Benton et al., 2017)](https://aclanthology.org/E17-1015.pdf) |Twitter |English |USER |Self-disclosure |Labels for multiple disorders |9.5K users |UNK | |
-|RSDD [(Yates et al., 2017)](https://arxiv.org/pdf/1709.01848.pdf) |Reddit |English |USER |Self-disclosure |Binary |116K users |DUA |https://georgetown-ir-lab.github.io/emnlp17-depression/ |
-|[Aldarwish and Ahmad (2017)](https://ieeexplore.ieee.org/abstract/document/7940253)   |Twitter, Facebook, LiveJournal|English |POST |Manual annotation |Binary, DSM-IV symptoms |6.7K posts |API | |
-|[Reece and Danforth (2017)](https://link.springer.com/content/pdf/10.1140/epjds/s13688-017-0110-z.pdf) |Instagram  |English |USER |CES-D |Binary |166 users |UNK | |
-|[Shen et al. (2017)](http://hcsi.cs.tsinghua.edu.cn/Paper/Paper17/IJCAI17-SHENGUANGYAO.pdf) |Twitter |English |USER |Self-disclosure |Binary |2.8K users |API | |
-|160Users [(Jamil et al., 2017)](https://ruor.uottawa.ca/handle/10393/36030) |Twitter |English |USER, POST|Self-disclosure |Binary |160 users, 8K posts |AUTH | |
-|SAD corpus [(Mowery et al., 2017)](https://www.jmir.org/2017/2/e48) |Twitter |English |POST |Manual annotation |Symptoms, psychological stressors |9.3k posts |API | |
-|[Vedula and Parthasarathy (2017)](https://dl.acm.org/doi/pdf/10.1145/3079452.3079465) |Twitter |English |USER |Depression-related keywords |Binary |150 users |API | |
-|[Hiraga (2017) ](https://aclanthology.org/P17-3018.pdf)|Japanese blogging websites |Japanese |USER |Self-disclosure |Binary |101 users |UNK | |
-|eRisk2017 [(Losada et al., 2017)](https://ceur-ws.org/Vol-1866/invited_paper_5.pdf) |Reddit |English |USER |Self-disclosure |Binary |887 users |DUA |https://erisk.irlab.org/2017/index.html  |
-|[Yazdavar et al. (2017) ]([url](https://browse.arxiv.org/pdf/1710.05429.pdf))|Twitter |English |USER |Self-disclosure |Binary |47K users |UNK | |
-|[Yazdavar et al. (2017) ]()|Twitter |English |USER |Self-disclosure |Binary |47K users |UNK | |
+Dataset | Platform | Language | Annotation Procedure | Label | Dataset Size | Availability | Link |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | :--- |
+|Multitask [(Benton et al., 2017)](https://aclanthology.org/E17-1015.pdf) |Twitter |English |Self-disclosure |Labels for multiple disorders |9.5K users |UNK | |
+|RSDD [(Yates et al., 2017)](https://arxiv.org/pdf/1709.01848.pdf) |Reddit |English |Self-disclosure |Binary |116K users |DUA |https://georgetown-ir-lab.github.io/emnlp17-depression/ |
+|[Aldarwish and Ahmad (2017)](https://ieeexplore.ieee.org/abstract/document/7940253)   |Twitter, Facebook, LiveJournal|English |Manual annotation |Binary, DSM-IV symptoms |6.7K posts |API | |
+|[Reece and Danforth (2017)](https://link.springer.com/content/pdf/10.1140/epjds/s13688-017-0110-z.pdf) |Instagram  |English |CES-D |Binary |166 users |UNK | |
+|[Shen et al. (2017)](http://hcsi.cs.tsinghua.edu.cn/Paper/Paper17/IJCAI17-SHENGUANGYAO.pdf) |Twitter |English |Self-disclosure |Binary |2.8K users |API | |
+|160Users [(Jamil et al., 2017)](https://ruor.uottawa.ca/handle/10393/36030) |Twitter |English |Self-disclosure |Binary |160 users, 8K posts |AUTH | |
+|SAD corpus [(Mowery et al., 2017)](https://www.jmir.org/2017/2/e48) |Twitter |English |Manual annotation |Symptoms, psychological stressors |9.3k posts |API | |
+|[Vedula and Parthasarathy (2017)](https://dl.acm.org/doi/pdf/10.1145/3079452.3079465) |Twitter |English |Depression-related keywords |Binary |150 users |API | |
+|[Hiraga (2017) ](https://aclanthology.org/P17-3018.pdf)|Japanese blogging websites |Japanese |Self-disclosure |Binary |101 users |UNK | |
+|eRisk2017 [(Losada et al., 2017)](https://ceur-ws.org/Vol-1866/invited_paper_5.pdf) |Reddit |English |Self-disclosure |Binary |887 users |DUA |https://erisk.irlab.org/2017/index.html  |
+|[Yazdavar et al. (2017) ]([url](https://browse.arxiv.org/pdf/1710.05429.pdf))|Twitter |English |Self-disclosure |Binary |47K users |UNK | |
+|[Yazdavar et al. (2017) ]()|Twitter |English |Self-disclosure |Binary |47K users |UNK | |
 |[Rojas-Barahona et al. (2018) ](https://browse.arxiv.org/pdf/1809.00640.pdf) |Koko Platform  |English |POST |Manual annotation |CBT Concepts |4035 posts |AUTH |https://github.com/YinpeiDai/NAUM |
 |[Pirina and Çöltekin (2018)](https://aclanthology.org/W18-5903.pdf)  |Reddit |English |POST |Subreddit participation |Binary |3.6K posts |FREE |https://github.com/Inusette/Identifying-depression/tree/master/Data_Collector |
 |[Eichstaedt et al. (2018) ](https://www.pnas.org/syndication/doi/10.1073/pnas.1802331115) |Facebook |English |USER |Medical records diagnosis |Binary |683 users |UNK | |
