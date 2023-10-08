@@ -124,7 +124,7 @@ Dataset | Platform | Language | Level | Annotation Procedure | Label | Dataset S
 |RESTORE [(Yadav et al., 2023)](https://aclanthology.org/2023.acl-long.495.pdf)|Reddit, Twitter, Pinterest |English |POST |Manual and automatic annotation |PHQ-9 symptoms |9.8K images |AUTH | |
 |<img alt="covid-virus" width="20px" src="https://cdn-icons-png.flaticon.com/512/2913/2913584.png" /> [Zogan et al. (2023)](https://ieeexplore.ieee.org/abstract/document/10041797) |Twitter |English |USER |Self-disclosure |Binary |1.4K users |API | |
 |<img alt="covid-virus" width="20px" src="https://cdn-icons-png.flaticon.com/512/2913/2913584.png" /> [Wu et al. (2023)](https://browse.arxiv.org/pdf/2302.12044.pdf)|Twitter |English |USER |Self-disclosure, manual annotation |Binary |10K users |API | |
-|DepreSym [(Pérez et al., 2023)](https://browse.arxiv.org/pdf/2308.10758.pdf)|Reddit |English |Post |Manual annotation |BDI-II symptoms |21K posts |DUA |https://erisk.irlab.org/depresym_dataset.html |
+|DepreSym [(Pérez et al., 2023)](https://browse.arxiv.org/pdf/2308.10758.pdf)|Reddit |English |POST |Manual annotation |BDI-II symptoms |21K posts |DUA |https://erisk.irlab.org/depresym_dataset.html |
 
 
 For datasets published before 2017, please refer to [https://github.com/kharrigian/mental-health-datasets](https://github.com/kharrigian/mental-health-datasets).
