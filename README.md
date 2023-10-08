@@ -77,7 +77,7 @@ Dataset | Platform | Language | Level | Annotation Procedure | Label | Dataset S
 |CAMS [(Garg et al., 2022)](https://browse.arxiv.org/pdf/2207.04674.pdf)|Reddit |English |POST |Manual annotation |Causes for depression |3.1 K posts |UNK | |
 |[Sotudeh et al. (2022)](https://aclanthology.org/2022.lrec-1.287.pdf)|Reddit |English |POST |Subreddit participation |Summarization |24 k posts |DUA |https://ir.cs.georgetown.edu/resources/mentsum.html |
 |[Kayalvizhi and Thenmozhi (2022)](https://link.springer.com/chapter/10.1007/978-3-031-16364-7_11)|Reddit |English |POST |Manual annotation |Depression severity  |16K posts |FREE |https://github.com/Kayal-Sampath/detecting-signs-of-depression-from-social-media-postings/tree/main|
-|eRisk2022 [(Crestani et al., 2022)](https://ceur-ws.org/Vol-3180/paper-66.pdf)|Overview of eRisk at CLEF 2022: Early Risk Prediction on the Internet (Extended Overview) |Reddit |English |USER |Self-disclosure |Binary |3.1K users |DUA |https://erisk.irlab.org/2022/index.html  |
+|eRisk2022 [(Crestani et al., 2022)](https://ceur-ws.org/Vol-3180/paper-66.pdf)|Reddit |English |USER |Self-disclosure |Binary |3.1K users |DUA |https://erisk.irlab.org/2022/index.html  |
 |[Monreale et al. (2022)](https://dl.acm.org/doi/abs/10.1145/3487553.3524918) |Reddit |English |POST |Subreddit participation |Labels for multiple disorders |16 K posts |API | |
 |[Kabir et al. (2022)](https://formative.jmir.org/2022/9/e36118/)|Facebook |Bengali |POST |Manual annotation |Depression severity  |5K posts |UNK | |
 |PRIMATE [(Gupta et al., 2022)](https://aclanthology.org/2022.clpsych-1.12.pdf)|Reddit |English |POST |Manual annotation |PHQ-9 symptoms |2K posts |DUA |https://github.com/primate-mh/Primate2022 |
