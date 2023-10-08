@@ -52,7 +52,7 @@ Dataset | Platform | Language | Level | Annotation Procedure | Label | Dataset S
 |[Wang et al. (2020)](https://ieeexplore.ieee.org/document/9391501)|Sina Weibo  |Chinese |USER |Depression-related keywords |Binary |32K users |FREE |https://github.com/aidenwang9867/Weibo-User-Depression-Detection-Dataset |
 |eRisk2020 [(Losada et al., 2020)](https://ceur-ws.org/Vol-2696/paper_253.pdf) |Reddit |English |USER |BDI-II |BDI filled-in |90 users |DUA |https://erisk.irlab.org/2020/index.html  |
 |[Stankevich et al. (2020)](https://link.springer.com/chapter/10.1007/978-3-030-51913-1_12)|VKontakte  |Russian |USER |BDI |BDI score |1.3K users |UNK | |
-|[Tabak and Purver (2020)*](https://browse.arxiv.org/pdf/2008.13121.pdf) |Temporal Mental Health Dynamics on Social Media  |Twitter |English, French, German, Italian, Spanish|USER |Self-disclosure |Binary |5K users |API | |
+|[Tabak and Purver (2020)*](https://browse.arxiv.org/pdf/2008.13121.pdf) |Twitter |English, French, German, Italian, Spanish|USER |Self-disclosure |Binary |5K users |API | |
 |[Yazdavar et al. (2020) ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226248) |Twitter |English |USER |Manual annotation |Binary |8.7K users |DUA | |
 |[Wołk et al. (2021)](https://browse.arxiv.org/pdf/2106.10485.pdf) |Facebook, Reddit |Polish |POST |Self-disclosure, clinical interview |Binary |262 users |UNK | |
 |[Haque et al. (2021) ](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_35)|Reddit| English |POST |Subreddit participation |Depression vs. suicide |1.8K posts |FREE |https://github.com/ayaanzhaque/SDCNL  |
