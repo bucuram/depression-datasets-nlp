@@ -1,4 +1,4 @@
-<h1 align="center"><span style="font-weight:normal">Datasets for depression modeling using data posted on online platforms</h1>
+<h1 align="center"><span style="font-weight:normal">Datasets for depression detection using data posted on online platforms</h1>
 
 ## 📚 Data availability
 The labels for data availability were inspired by the work of [Harrigian et al. (2021)](https://browse.arxiv.org/pdf/2011.05233.pdf), and are explained below: 
