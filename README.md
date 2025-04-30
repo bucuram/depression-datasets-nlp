@@ -18,6 +18,42 @@ The labels for data availability were inspired by the work of [Harrigian et al. 
 
 For the datasets that are publicly available for download or can be accessed through user agreements, we provide the **links** to the data.
 
+
+## <a name="citation"></a> 📖 Citation
+If you found our list of datasets useful, please cite our papers in which we presented:
+
+- The COVID-related datasets:
+
+[On the State of NLP Approaches to Modeling Depression in Social Media: A Post-COVID-19 Outlook](https://ieeexplore.ieee.org/document/10915198)
+
+```
+@article{Bucur2024state,
+  author={Bucur, Ana-Maria and Moldovan, Andreea-Codrina and Parvatikar, Krutika and Zampieri, Marcos and KhudaBukhsh, Ashiqur R. and Dinu, Liviu P.},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={On the State of NLP Approaches to Modeling Depression in Social Media: A Post-COVID-19 Outlook}, 
+  year={2025},
+  pages={1-13},
+  doi={10.1109/JBHI.2025.3540507}}
+```
+
+- The other social media datasets:
+
+[Datasets for Depression Modeling in Social Media: An Overview](https://aclanthology.org/2025.clpsych-1.10.pdf)
+
+```
+@inproceedings{bucur2025datasets,
+    title = "Datasets for Depression Modeling in Social Media: An Overview",
+    author = "Bucur, Ana-Maria  and Moldovan, Andreea and Parvatikar, Krutika and Zampieri, Marcos and Khudabukhsh, Ashiqur and Dinu, Liviu",
+    booktitle = "Proceedings of the 10th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2025)",
+    month = may,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.clpsych-1.10/",
+    pages = "116--126",
+}
+```
+
 <img alt="covid-virus" width="20px" src="https://cdn-icons-png.flaticon.com/512/2913/2913584.png" /> Denotes that the dataset contains data collected during the COVID-19 pandemic.
 
 
